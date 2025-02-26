@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there, i'm Murilo Camargo 👋  
 
-<!--
-**murilokmargo/murilokmargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer in the making, with experience from my software development internship and a passion for learning new technologies. Currently focused on **learning Laravel and web development**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and Technologies: 
+- 🌱 Learning: Laravel and web development in general.  
+- 🛠️ Some experience with: React, JavaScript, .NET, Ruby on Rails, Laravel, C#, Ruby, PHP, Dart, PostgreSQL.  
+
+---
+
+### Let's connect!  
+If you're looking for someone dedicated and curious, I'd love to chat.
+
+📫 **E-mail:** murilokmargo@gmail.com  
+💼 **LinkedIn:** [Murilo Camargo](https://www.linkedin.com/in/murilokmargo/)  
